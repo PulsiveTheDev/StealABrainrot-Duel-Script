@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.rubis.dev/v2/scrap/wNk3q7UsC9oP1TVc/raw"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/55468c3903178b13cf5dbf49dc21394d.lua"))()
